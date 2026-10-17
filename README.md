@@ -1,5 +1,7 @@
 # RawTherapee 正體中文語系檔
 
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/RawTherapee_zh_TW/total?style=flat-square&logo=github)
+
 [RawTherapee](https://rawtherapee.com/) 的正體中文（台灣用語）介面翻譯，涵蓋全部 4857 個介面字串，沒有遺漏的英文項目。
 
 ## 檔案
